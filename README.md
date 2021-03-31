@@ -10,7 +10,7 @@
 Simply go to the command line and run this command.
 
 ```sh
-git clone https://github.com/goelaakash79/usefonts
+git clone https://github.com/padmansh/use-fonts
 cd usefonts
 yarn add
 yarn start
