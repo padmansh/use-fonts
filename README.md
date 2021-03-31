@@ -1,11 +1,9 @@
 <h1 align="center">
-  <a href="https://usefonts.netlify.app/">
+  <p>
   useFonts(🚀);
-  </a> </h1>
+  </p> </h1>
 
 `useFonts` is a design tool to help designers and developers select their perfect fonts. It uses Google Fonts API to fetch all the fonts.
-
-<img src="https://i.imgur.com/GkEDRwk.gif"/>
 
 ## Run on a local machine
 
