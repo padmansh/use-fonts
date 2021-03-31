@@ -17,19 +17,3 @@ cd usefonts
 yarn add
 yarn start
 ```
-
-## Author
-
-🙍‍♂️ **Aakash Goel**
-
--   💬 Twitter: [@goelaakash79](https://twitter.com/goelaakash79)
--   👨‍💻 Github: [@goelaakash79](https://github.com/goelaakash79)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2020 [Aakash Goel](https://github.com/goelaakash79).<br />
-This project is [MIT](https://github.com/goelaakash79/usefonts/blob/master/LICENSE) licensed.
