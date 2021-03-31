@@ -41,40 +41,7 @@ const Navigation = ({ font }) => {
 						</button>
 					</div>
 					<div className="w-full md:block flex-grow lg:flex lg:items-center lg:w-auto hidden">
-						{/* <div className="text-sm lg:flex-grow">
-							<a
-								href="https://tailwindcss.com/"
-								className="block mt-4 lg:inline-block lg:mt-0 text-colors-white hover:text-white mr-4"
-							>
-								Home
-							</a>
-							<a
-								href="https://refactoringui.com/"
-								className="block mt-4 lg:inline-block lg:mt-0 text-colors-white hover:text-white mr-4"
-							>
-								About
-							</a>
-							<a
-								href="https://dsckiet.com/"
-								className="block mt-4 lg:inline-block lg:mt-0 text-colors-white hover:text-white mr-4"
-							>
-								Team
-							</a>
-							<a
-								href="https://twitter.com/goelaakash79"
-								className="block mt-4 lg:inline-block lg:mt-0 text-colors-white hover:text-white"
-							>
-								Contact
-							</a>
-						</div>
-						<div>
-							<a
-								href="https://github.com/goelaakash79"
-								className="inline-block text-sm px-4 py-2 leading-none border rounded text-colors-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0"
-							>
-								Become a member
-							</a>
-						</div> */}
+						
 					</div>
 				</nav>
 			</Nav>
